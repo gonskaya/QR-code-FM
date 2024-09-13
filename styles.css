@@ -44,6 +44,7 @@ p {
 .attribution {
     font-size: 11px;
     margin-top: 5px;
+    display: none;
 }
 
 .attribution a {
